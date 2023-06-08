@@ -10,4 +10,7 @@ class MainActivity : AppCompatActivity() {
     }
 
     //Github'a proje aktarmak.
+
+
+    //Bu projede bazı değişiklikler yapılmıştır.
 }
